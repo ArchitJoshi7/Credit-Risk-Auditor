@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+matplotlib
+plotly
+web3
+python-dotenv
+solcx
+joblib
